@@ -9,8 +9,15 @@ The Repository consists of the following elements:
 3. [Supporting files](https://github.com/STAT545-UBC-students/hw01-divita95/tree/master/hw01_gapminder_files/figure-markdown_strict)
 4. [README file](https://github.com/STAT545-UBC-students/hw01-divita95/edit/master/README.md)
 
+```{r}
+print(Hello STAT545a)
+```
+
 ## Introduction :raising_hand:
 I take this opportunity to introduce myself as Divita Pal from India, currently pursuing *Master of Engineering* at University of British Columbia in the *Department of Chemical and Biological Engineering*. I came to vancouver last year in August and started school on September 2017. I chose UBC as it is at the forefront of education, have a fabulous research status and flexible academic curriculum. Moreover, Canada was the best option to pursue higher education as it has developed a first-rated education system with high standards and global recognition. As it is a country of immigrants from all over the world and therefore different perspectives are respected and learning together is encouraged. Also, Vancouver is a peaceful and orderly city with a diverse and vibrant culture and moderate climate conditions.
+
+![](http://3.bp.blogspot.com/-s3XSqIdW5hk/UGUl1XFh-II/AAAAAAAAKwo/CRqrxrOr9aw/s0/vancouver-1920x1080.jpg)
+
 
 ## Early Life 
 According to me
@@ -24,13 +31,6 @@ At a very early age I realized that not only was engineering an interesting fiel
 |     UBC           |     04/17     |   on-going   | Chemical Engineering    |  -    |  MEng    |
 |    NIT Raipur     |     08/13     |     05/17    | Chemical Engineering    |  4.0  |  BTech   |
 
-## Technical Projects
-#### 1. Molecular Simulation of a system of argon atoms
-  - Developed a model to predict thermodynamic properties of argon atoms using molecular dynamics simulation and Statistical  Thermodynamics approach.
-  - Took advice from professors and post-doctorates by making good contact, worked individually and produced appreciable results.
-#### 2. Kinetic Analysis of a spark-ignited IC Engine
--	Designed equations to determine the harmful nitrogen oxide concentration.
-- Learned and used MATLAB to model a basic system.
 
 ## Hobbies and Interests
 - Sports
@@ -44,9 +44,7 @@ At a very early age I realized that not only was engineering an interesting fiel
       - Canvas oil painting
 - Workout :muscle:
 
-```{r}
-print(Hello STAT545a)
-```
+
 
 ### Task Checklist
 - [x] Emojis
