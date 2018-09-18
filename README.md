@@ -10,6 +10,7 @@ The Repository consists of the following elements:
 ## Introduction :raising_hand:
 I take this opportunity to introduce myself as Divita Pal from India, currently pursuing *Master of Engineering* at University of British Columbia in the *Department of Chemical and Biological Engineering*. I came to vancouver last year in August and started school on September 2017. I chose UBC as it is at the forefront of education, have a fabulous research status and flexible academic curriculum. Moreover, Canada was the best option to pursue higher education as it has developed a first-rated education system with high standards and global recognition. As it is a country of immigrants from all over the world and therefore different perspectives are respected and learning together is encouraged. Also, Vancouver is a peaceful and orderly city with a diverse and vibrant culture and moderate climate conditions.
 
+![alt text](https://www.facebook.com/photo.php?fbid=1409751425735682&set=pb.100001025133414.-2207520000.1537242564.&type=3&theater)
 ## Early Life 
 According to me
 > Engineering is the branch of science and technology that involves learning the fundamental and basic concepts and applying them to produce innovative and practical applications out of it.
