@@ -10,13 +10,13 @@ The Repository consists of the following elements:
 4. [README file](https://github.com/STAT545-UBC-students/hw01-divita95/edit/master/README.md)
 
 ```{r}
-print(Hello STAT545a)
+Hello STAT545a
 ```
 
 ## Introduction :raising_hand:
-I take this opportunity to introduce myself as Divita Pal from India, currently pursuing *Master of Engineering* at University of British Columbia in the *Department of Chemical and Biological Engineering*. I came to vancouver last year in August and started school on September 2017. I chose UBC as it is at the forefront of education, have a fabulous research status and flexible academic curriculum. Moreover, Canada was the best option to pursue higher education as it has developed a first-rated education system with high standards and global recognition. As it is a country of immigrants from all over the world and therefore different perspectives are respected and learning together is encouraged. Also, Vancouver is a peaceful and orderly city with a diverse and vibrant culture and moderate climate conditions.
+I take this opportunity to introduce myself as Divita Pal from India, currently pursuing *Master of Engineering* at University of British Columbia in the *Department of Chemical and Biological Engineering*. I came to vancouver last year in August and started school on September 2017. I chose UBC as it is at the forefront of education, have a fabulous research status and flexible academic curriculum. Moreover, Canada was the best option to pursue higher education as it has developed a first-rated education system with high standards and global recognition. As it is a country of ~~emmigrants~~ immigrants from all over the world and therefore different perspectives are respected and learning together is encouraged. Also, Vancouver is a peaceful and orderly city with a diverse and vibrant culture and moderate climate conditions.
 
-![](http://3.bp.blogspot.com/-s3XSqIdW5hk/UGUl1XFh-II/AAAAAAAAKwo/CRqrxrOr9aw/s0/vancouver-1920x1080.jpg)
+![](http://3.bp.blogspot.com/-s3XSqIdW5hk/UGUl1XFh-II/AAAAAAAAKwo/CRqrxrOr9aw/s0/vancouver-1920x1080.jpg height="70" width="150")
 
 
 ## Early Life 
@@ -44,14 +44,15 @@ At a very early age I realized that not only was engineering an interesting fiel
       - Canvas oil painting
 - Workout :muscle:
 
+![](https://media2.giphy.com/media/oShObTfbg3S5G/200.gif)
 
 
 ### Task Checklist
 - [x] Emojis
-- [ ] @mentions
+- [x] @mentions
 - [x] code chunk
-- [ ] images
-- [ ] References
+- [x] images
+- [x] gifs
 - [x] Tables
 - [x] Lists
 - [x] Ordered and unordered lists
