@@ -2,10 +2,12 @@
 This is the Repository of **Divita Pal** and was built uisng [main STAT545 webpage](http://stat545.com/index.html)
 
 ### Description of the Repository
+The Repository was made for homework assignmnet01 for STAT545A. It consists of two parts: First is the README.md file and Second is the Rmarkdown and markdown file. Rstudio was used to create the Rmarkdown files
 The Repository consists of the following elements:
 1. [R markdown file](https://github.com/STAT545-UBC-students/hw01-divita95/blob/master/hw01_gapminder.Rmd)
 2. [Markdown file](https://github.com/STAT545-UBC-students/hw01-divita95/blob/master/hw01_gapminder.md)
 3. [Supporting files](https://github.com/STAT545-UBC-students/hw01-divita95/tree/master/hw01_gapminder_files/figure-markdown_strict)
+4. [README file](https://github.com/STAT545-UBC-students/hw01-divita95/edit/master/README.md)
 
 ## Introduction :raising_hand:
 I take this opportunity to introduce myself as Divita Pal from India, currently pursuing *Master of Engineering* at University of British Columbia in the *Department of Chemical and Biological Engineering*. I came to vancouver last year in August and started school on September 2017. I chose UBC as it is at the forefront of education, have a fabulous research status and flexible academic curriculum. Moreover, Canada was the best option to pursue higher education as it has developed a first-rated education system with high standards and global recognition. As it is a country of immigrants from all over the world and therefore different perspectives are respected and learning together is encouraged. Also, Vancouver is a peaceful and orderly city with a diverse and vibrant culture and moderate climate conditions.
