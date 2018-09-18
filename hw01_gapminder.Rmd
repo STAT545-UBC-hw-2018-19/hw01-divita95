@@ -1,0 +1,67 @@
+---
+title: "HW01_gapminder"
+output: md_document
+---
+##Loading Data Frame into R markdown
+In order to work with Data Frames, we load the gapminder using the command library()
+```{r}
+library(gapminder)
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Overview of the Data set
+The command summary() gives a statistical overview of what the data frame looks like
+```{r}
+summary(gapminder)
+```
+
+##Data exploration
+The following set of commands gives a brief information about the data set
+```{r}
+
+str(gapminder)
+head(gapminder)
+tail(gapminder)
+```
+
+```{r}
+class(gapminder)
+```
+
+```{r}
+names(gapminder)
+```
+```{r}
+ncol(gapminder)
+nrow(gapminder)
+length(gapminder)
+```
+
+##Plotting and Data Visualisation
+Plots are used to properly visualise the data set and R code chunks could be used for plotting
+```{r}
+plot(lifeExp~log(pop), gapminder)
+plot(lifeExp~log(log(gdpPercap)), gapminder)
+```
+
+##Working with a single variable of the data set
+$ sign is used to specify a single variable in the data set. the following set of commands explores each set of the gapminder data frame
+```{r}
+class(gapminder$country)
+levels(gapminder$country)
+```
+
+```{r}
+summary(gapminder$continent)
+nlevels(gapminder$continent)
+table(gapminder$continent)
+```
+```{r}
+summary(gapminder$lifeExp)
+hist(gapminder$lifeExp)
+barplot(table(gapminder$continent))
+```
+
